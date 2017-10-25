@@ -9,3 +9,9 @@ praise()
 \description{
 Sends love in the form of praise when in need.
 }
+\examples{
+
+# Praise the lord.
+praise()
+
+}
