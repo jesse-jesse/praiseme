@@ -11,6 +11,6 @@
 #' # Praise the lord.
 #' praise()
 #'
-praise <- function(name = "Jessie") {
+praise <- function(name = "Alicia") {
    paste("Your're the best,", name)
 }
